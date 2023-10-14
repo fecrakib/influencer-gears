@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        red: "#E02C6D",
-        footer:"#0A0826",
+        rede: "#E02C6D",
+        footer:"#0A0826"
       
       },
       fontFamily: {
